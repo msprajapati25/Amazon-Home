@@ -168,7 +168,7 @@
   }
   .hero {
     position: relative;
-    background-image: url("/images/amazonhero.jpg");
+    background-image: url("./images/amazonhero.jpg");
     background-size: cover;
     height: 370px;
   }
